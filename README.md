@@ -74,6 +74,10 @@ Here are some ideas to get you started:
 
 <br>
 
+<div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riddaj)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://blog.naver.com/riddas">
