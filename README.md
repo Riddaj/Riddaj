@@ -72,14 +72,14 @@ Here are some ideas to get you started:
 <br>
 
 <div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riddaj&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riddaj&show_icons=true&theme=radical&cache_seconds=86400)
 </div>
 
 <br>
 
 <!--
 <div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riddaj&layout=compact&cache_seconds=86400)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riddaj&layout=compact)
 </div>
 -->
 
