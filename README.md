@@ -71,11 +71,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<div>
-  <tr>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riddaj&show_icons=true&theme=radical&cache_seconds=86400)
-  </tr>
-</div>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riddaj&show_icons=true&theme=radical&cache_seconds=86400)
 
 <br>
 
