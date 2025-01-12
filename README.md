@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/go-4d77cf.svg?style=for-the-badge&logo=go&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=go&logoColor=white" />&nbsp
 </div>
 
 <br>
